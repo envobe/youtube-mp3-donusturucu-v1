@@ -4,4 +4,4 @@ Tasarımı kendi istediğiniz doğrultusunda değiştirebilirsiniz.
 
 v.1'dir ve güncellenmeyecektir.
 
-http://www.envobe.com
+www.envobe.com
